@@ -1,2 +1,2 @@
-# Vardhan-AIML
+# yashas-AIML
 Labsheets of AIML
